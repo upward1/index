@@ -377,3 +377,7 @@
 		text-align: center;
 		width: 100%;
 	}
+
+  #footer img {
+    cursor: pointer;
+  }
